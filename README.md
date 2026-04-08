@@ -2,15 +2,15 @@
 
 A Flutter-based mobile application for pelvic floor muscle training (PFMT) with real-time voice feedback and adaptive exercise control.
 
-## 🚀 Features
+##  Features
 
-- ⏱️ Guided exercise timer (contract, hold, relax)
-- 🎤 Voice input using speech recognition
-- 🧠 Smart parsing of user input (e.g., "completed 10 reps")
-- 🔁 Adaptive exercise control based on user feedback
-- 📊 Rep and set tracking
+-  Guided exercise timer (contract, hold, relax)
+-  Voice input using speech recognition
+-  Smart parsing of user input (e.g., "completed 10 reps")
+-  Adaptive exercise control based on user feedback
+-  Rep and set tracking
 
-## 🧠 How It Works
+##  How It Works
 
 The app follows a structured PFMT protocol:
 
@@ -28,14 +28,14 @@ Voice input allows users to:
 - Say "completed X reps" → update progress
 - Say "stop" → end session
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Flutter (Dart)
 - Provider (state management)
 - speech_to_text (voice input)
 - Firebase (planned)
 
-## 📱 Getting Started
+##  Getting Started
 
 ```bash
 flutter pub get
