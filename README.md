@@ -35,6 +35,15 @@ Voice input allows users to:
 - speech_to_text (voice input)
 - Firebase (planned)
 
+
+##  App Interface 
+Voice-enabled PFMT rehabilitation app that guides users through structured pelvic floor exercises and adapts sessions in real time based on spoken feedback (e.g., “too hard” or “completed 8 reps”).
+
+link for full working demonstration of app: 
+
+https://github.com/user-attachments/assets/9318ab10-7176-4c93-a4ac-960162eb065a
+
+
 ##  Getting Started
 
 ```bash
